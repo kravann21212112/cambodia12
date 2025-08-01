@@ -115,6 +115,7 @@ print(max)
 ```
 > Output: `40`
 ## Sum value in row
+Code
 ```python
 arr2D = [
     [1,2,3],
